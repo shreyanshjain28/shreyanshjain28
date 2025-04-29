@@ -1,4 +1,4 @@
-<p align="left">I'm Shreyansh Jain<br>A passionate full stack developer</p>
+<p align="left">I'm Shreyansh, a passionate Full-Stack Web Developer with a passion for building cutting-edge solutions. </p>
 
 ###
 
