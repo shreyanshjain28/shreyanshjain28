@@ -1,4 +1,4 @@
-<p align="left">I'm Shreyansh, a passionate Full-Stack Web Developer with a passion for building cutting-edge solutions. </p>
+<p align="left">I'm Shreyansh, a passionate Full-Stack Web Developer with a passion for building cutting-edge solutions.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">Fun fact I am a sports enthusiastic</p>
+<p align="left">⚡Fun fact I am a sports enthusiastic</p>
 
 ###
 
@@ -63,15 +63,8 @@
 
 ###
 
-<p align="left">All of my projects are available at https://shreyansh-jain.netlify.app/</p>
+<p align="left">📫 How to Reach - https://shreyansh-jain.netlify.app/</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyanshjain28/shreyanshjain28/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyanshjain28/shreyanshjain28/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shreyanshjain28/shreyanshjain28/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
