@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left">📫 How to Reach - https://shreyansh-jain.netlify.app/</p>
+<p align="left">📫 How to Reach - https://shreyanshj.netlify.app/</p>
 
 
 ###
